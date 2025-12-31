@@ -50,11 +50,9 @@ Future work may incorporate exogenous variables through SARIMAX models or apply 
 
 ---
 
-## Tools Used
-
-* **R**
-* `astsa`
-* `forecast`
+## Tools & Libraries
+- **Language:** R
+- **Packages:** astsa, forecast
 
 ---
 
