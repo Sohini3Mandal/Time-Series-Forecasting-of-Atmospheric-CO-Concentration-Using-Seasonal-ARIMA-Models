@@ -1,4 +1,4 @@
-# Time-Series-Forecasting-of-Atmospheric-CO-Concentration-Using-Seasonal-ARIMA-Models
+# Time-Series-Forecasting-of-Atmospheric-CO₂-Concentration-Using-Seasonal-ARIMA-Models
 
 ## Overview
 
